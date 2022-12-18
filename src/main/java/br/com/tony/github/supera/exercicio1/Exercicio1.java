@@ -1,4 +1,4 @@
-package br.com.tony.github.supera;
+package br.com.tony.github.supera.exercicio1;
 
 import java.util.ArrayList;
 import java.util.Collections;
