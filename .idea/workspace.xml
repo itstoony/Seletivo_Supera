@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7c4825-4ec1-4e5e-9d5a-e5877a7832ed" name="Changes" comment="Exercicio1">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio2/Exercicio2.java" afterDir="false" />
+    <list default="true" id="1d7c4825-4ec1-4e5e-9d5a-e5877a7832ed" name="Changes" comment="Exercicio2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio3/Exercicio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio1/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio2/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio2/Exercicio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feat/20221218/exercicio2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +38,14 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/20221218/exercicio3" />
+                    <option name="lastUsedInstant" value="1671389813" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/20221218/exercicio2" />
+                    <option name="lastUsedInstant" value="1671389402" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feat/20221216/exercicio1" />
                     <option name="lastUsedInstant" value="1671243545" />
@@ -75,7 +80,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio2">
+  <component name="RunManager" selected="Application.Exercicio3">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.tony.github.supera.exercicio1.Exercicio1" />
       <module name="SuperaSeletivo" />
@@ -102,8 +107,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.tony.github.supera.exercicio3.Exercicio3" />
+      <module name="SuperaSeletivo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.tony.github.supera.exercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.Exercicio2" />
         <item itemvalue="Application.Exercicio1" />
       </list>
@@ -118,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671243433412</updated>
       <workItem from="1671243435074" duration="7848000" />
-      <workItem from="1671385497263" duration="2330000" />
+      <workItem from="1671385497263" duration="8279000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1671243481236</created>
@@ -134,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671243609881</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercicio2">
+      <created>1671389422997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671389422997</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Exercicio1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio1" />
+    <MESSAGE value="Exercicio2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio2" />
   </component>
 </project>
