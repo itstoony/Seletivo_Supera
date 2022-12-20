@@ -14,6 +14,7 @@ public class Exercicio2 {
         symbol.setDecimalSeparator('.');
         deci.setDecimalFormatSymbols(symbol);
 
+        System.out.println("Insira o valor desejado: ");
         double valor = scan.nextDouble();
         int resultado;
 
