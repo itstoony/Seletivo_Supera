@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7c4825-4ec1-4e5e-9d5a-e5877a7832ed" name="Changes" comment="Exercicio2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio3/Exercicio3.java" afterDir="false" />
+    <list default="true" id="1d7c4825-4ec1-4e5e-9d5a-e5877a7832ed" name="Changes" comment="Exercicio 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio2/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/tony/github/supera/exercicio2/Exercicio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,14 @@
           </list>
         </option>
       </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="itstoony" />
+        <option name="repository" value="Seletivo_Supera" />
+      </RepoCoordinatesHolder>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -138,6 +144,8 @@
       <updated>1671243433412</updated>
       <workItem from="1671243435074" duration="7848000" />
       <workItem from="1671385497263" duration="8279000" />
+      <workItem from="1671569832590" duration="1288000" />
+      <workItem from="1671729808783" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1671243481236</created>
@@ -160,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671389422997</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicio 3">
+      <created>1671569847357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671569847357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +196,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Exercicio1" />
     <MESSAGE value="Exercicio2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio2" />
+    <MESSAGE value="Exercicio 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 3" />
   </component>
 </project>
